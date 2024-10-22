@@ -2,7 +2,7 @@
 *(Submitted) IEEE Robotics and Automation Letters*
 
 
-
+<a href="https://www.youtube.com/watch?v=VIDEO_ID"><img src="http://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Video Thumbnail" width="240" height="180" border="10" /></a>
 ## Requirements
 1. Tested on Ubuntu 20.04.
 2. Nvidia GPU equipped, and driver Installed. Tested on RTX 4080.
