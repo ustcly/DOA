@@ -2,7 +2,8 @@
 *(Submitted) IEEE Robotics and Automation Letters*
 
 
-<iframe width="560" height="315" src="https://youtu.be/sEexQG4FARI" frameborder="0" allowfullscreen></iframe>
+Demo video available at: https://youtu.be/sEexQG4FARI(https://youtu.be/sEexQG4FARI)
+
 ## Requirements
 1. Tested on Ubuntu 20.04.
 2. Nvidia GPU equipped, and driver Installed. Tested on RTX 4080.
