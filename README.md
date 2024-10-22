@@ -2,7 +2,7 @@
 *(Submitted) IEEE Robotics and Automation Letters*
 
 
-Demo video available at: https://youtu.be/sEexQG4FARI(https://youtu.be/sEexQG4FARI)
+Demo video available at: https://youtu.be/sEexQG4FARI
 
 ## Requirements
 1. Tested on Ubuntu 20.04.
