@@ -33,7 +33,7 @@ conda activate carla
 python test.py
 ```
 
-Then different models will be tested on map(g). The driving data (timestamp, speed, location, heading, slip angle, control commands, etc.) will be recorded in `code/test/` after the testing process.
+Then the model will be tested. The driving data (speed, location, heading, slip angle, control commands, etc.) will be recorded in `code/test/` after the testing process.
 
 
 ## Citation
