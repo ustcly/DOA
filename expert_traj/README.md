@@ -14,5 +14,5 @@ You can look up parameters settings in [experiments_parameters.py](./experiments
 
 ## Our Work
 
-Autonomous Reinforcement Learning Based Drift Control for Abrupt Obstacle Avoidance Using Expert Demonstrations
+Autonomous Reinforcement Learning Based Drift Control for Abrupt Obstacle Avoidance Using Expert Demonstrations:
 [Homepage](https://github.com/ustcly/DOA)
