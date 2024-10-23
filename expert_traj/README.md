@@ -8,13 +8,11 @@
 
 
 ## Parameters
-You can look up parameters settings in experiments_parameters.py, which is based on Maps in CARLA 0.9.14
+You can look up parameters settings in [experiments_parameters.py](./experiments_parameters.py), which is based on Maps in CARLA 0.9.14
 
 
 
-## Citation
+## Our Work
 
-Please consider to cite our paper if this work helps:
-```
-To be Added
-```
+Autonomous Reinforcement Learning Based Drift Control for Abrupt Obstacle Avoidance Using Expert Demonstrations
+[Homepage](https://github.com/ustcly/DOA)
