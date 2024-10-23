@@ -1,7 +1,8 @@
 # Autonomous Reinforcement Learning Based Drift Control for Abrupt Obstacle Avoidance Using Professional Racing Techniques
 *(Submitted) IEEE Robotics and Automation Letters*
 
-Expert Demonstration Dataset is in the folder [expert_traj](https://github.com/ustcly/DOA/expert_traj) 
+Expert Demonstration Dataset is in the folder [expert_traj](https://github.com/ustcly/DOA/expert_traj). 
+
 Demo video available at: https://youtu.be/sEexQG4FARI
 
 ## Requirements
