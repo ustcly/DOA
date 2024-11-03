@@ -3,7 +3,7 @@
 
 Expert Demonstration Dataset is in the folder [expert_traj](https://github.com/ustcly/DOA/tree/main/expert_traj). 
 
-Demo video available at: https://youtu.be/sEexQG4FARI
+Demo video available at: https://youtu.be/5AIKlitWuK8
 
 ## Requirements
 1. Tested on Ubuntu 20.04.
